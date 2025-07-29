@@ -13,6 +13,8 @@
         "string_view": "cpp",
         "valarray": "cpp",
         "string": "cpp",
-        "regex": "cpp"
+        "regex": "cpp",
+        "cmath": "cpp",
+        "algorithm": "cpp"
     }
 }
