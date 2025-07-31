@@ -15,6 +15,7 @@
         "string": "cpp",
         "regex": "cpp",
         "cmath": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "type_traits": "cpp"
     }
 }
